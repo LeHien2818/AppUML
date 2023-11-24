@@ -52,7 +52,12 @@ But the main purpose is to get scores in my OOP course...
     word VARCHAR(255),
     pronunciation VARCHAR(255),
     definition MEDIUMTEXT
-  );
+  )
+  CREATE TABLE vocab (
+    Vocabulary VARCHAR(255),
+    Pronunciation VARCHAR(255),
+    Meaning MEDIUMTEXT
+  )
 ```
 - After that, Run this code by clicking button "Go" if you use phpMyAdmin.
 - when these codes above did run, go to tab "Import" and import the "output.sql" ![img_3.png](img_3.png).
