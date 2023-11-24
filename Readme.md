@@ -60,7 +60,7 @@ But the main purpose is to get scores in my OOP course...
   )
 ```
 - After that, Run this code by clicking button "Go" if you use phpMyAdmin.
-- when these codes above did run, go to tab "Import" and import the "output.sql" ![img_3.png](img_3.png).
+- when these codes above did run, go to tab "Import" and import the "output.sql" and "questionvocab.sql" ![img_3.png](img_3.png).
 - When all done,  go to App.java right click inside and click "Run App.main()"![img_1.png](img_1.png).
 - After clicking that, you successfully install and run this app. Good Luck!
 
